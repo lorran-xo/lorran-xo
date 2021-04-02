@@ -14,6 +14,10 @@
 ## :dart: Sobre ##
    Trabalhando como **Desenvolvedor Frontend**, formando em **Análise e Desenvolvimento de Sistemas**. Atualmente me aventurando em projetos **Full Stack**, como **técnico de computadores** e no **mercado de ações** 📈
    
+<br />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lorran-xo&count_private=true&layout=compact" />
+<br /> 
+   
 ## :rocket: Tecnologias ##
 - Frontend : <br />
     [![React.js](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://reactjs.org/)
@@ -51,9 +55,9 @@
     [![Debian](https://img.shields.io/badge/-Debian-eee?style=flat-square&logo=debian&logoColor=D70751)](https://www.debian.org/)
     [![Ubuntu](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=ubuntu&logoColor=DD4814)](https://ubuntu.com/)
     
-    
+<br />
+
 Made with :heart: by <a href="https://github.com/lorran-xo" target="_blank">Lorran Oliveira</a>
 
 &#xa0;
-
-<a href="#top">Topo ☝️</a>
+ <a href="#top">Topo ☝️</a>
