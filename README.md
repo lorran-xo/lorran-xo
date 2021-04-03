@@ -6,8 +6,7 @@
   
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="https://github.com/lorran-xo" target="_blank">Author</a>
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0;
 </p>
 <br>
 
