@@ -3,11 +3,7 @@
 [![Projetos](https://img.shields.io/badge/-Projetos-black?style=flat&logo=github&link=https://github.com/lorran-xo?tab=repositories)](https://github.com/lorran-xo?tab=repositories)  
 <h1 align="center">Lorran Oliveira</h1>
 <h6 align="center"> Desenvolvedor <h6>
-  
-<p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0;
-</p>
+ 
 <br>
 
 ## :dart: Sobre ##
@@ -57,6 +53,3 @@
 <br />
 
 Made with :heart: by <a href="https://github.com/lorran-xo" target="_blank">Lorran Oliveira</a>
-
-&#xa0;
- <a href="#top">Topo ☝️</a>
