@@ -6,7 +6,7 @@
  
 <br>
 
-   Trabalhando como **Desenvolvedor Frontend** e me formando em **Análise e Desenvolvimento de Sistemas**. Atualmente me aventurando em projetos **Full Stack**, como **técnico de computadores** e no **mercado de ações** 📈
+Trabalhando como **Desenvolvedor Frontend** e me formando em **Análise e Desenvolvimento de Sistemas**. Atualmente me aventurando em projetos **Full Stack**, como **técnico de computadores** e no **mercado de ações** 📈
    
 <br />
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=lorran-xo&count_private=true&layout=compact" />
