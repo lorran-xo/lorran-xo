@@ -6,7 +6,7 @@
  
 <br>
 
-Trabalhando como **Desenvolvedor Frontend** e no fim da graduação em **Análise e Desenvolvimento de Sistemas**. Atualmente me aventurando em projetos pessoais **Full Stack** e nas horas vagas como **técnico de computadores** e no **mercado de ações** 📈
+Trabalhando como **Desenvolvedor Frontend** na SenseData. Atualmente me aventurando em projetos pessoais **Full Stack** e nas horas vagas como **técnico de computadores** e no **mercado de ações** 📈
  
 ## :rocket: Tecnologias ##
 - Frontend : <br />
