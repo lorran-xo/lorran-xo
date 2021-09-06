@@ -6,7 +6,7 @@
  
 <br>
 
-Trabalhando como **Desenvolvedor Frontend** na SenseData. Estudando **UI Design** e explorando o **mercado de ações** 📈
+Trabalhando como **Desenvolvedor Frontend** Mobile e Web. Estudando **UI Design** e explorando o **mercado de ações** 📈
  
 ## :rocket: Tecnologias ##
 - Frontend : <br />
