@@ -2,11 +2,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=Instagram&logoColor=instagram&link=https://www.instagram.com/lorran_xo/)](https://www.instagram.com/lorran_xo/)
 [![Projetos](https://img.shields.io/badge/-Projetos-black?style=flat&logo=github&link=https://github.com/lorran-xo?tab=repositories)](https://github.com/lorran-xo?tab=repositories)  
 <h1 align="center">Lorran Oliveira</h1>
-<h6 align="center"> Desenvolvedor </h6>
+<h6 align="center"> Desenvolvedor Frontend</h6>
  
 <br>
 
-Trabalhando como **Desenvolvedor Frontend** na SenseData. Atualmente me aventurando em projetos pessoais **Full Stack** e nas horas vagas como **técnico de computadores** e no **mercado de ações** 📈
+Trabalhando como **Desenvolvedor Frontend** na SenseData. Estudando **UI Design** e explorando o **mercado de ações** 📈
  
 ## :rocket: Tecnologias ##
 - Frontend : <br />
