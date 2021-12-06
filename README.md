@@ -7,6 +7,9 @@
 <br>
 
 Trabalhando como **Desenvolvedor Frontend** Mobile e Web. Estudando **UI Design** e explorando o **mercado de ações** 📈
+
+**This account hasn't been active lately, I'm on gitbucket.**
+
  
 ## :rocket: Tecnologias ##
 - Frontend : <br />
