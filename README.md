@@ -3,7 +3,8 @@
 [![Repos](https://img.shields.io/badge/-Repos-black?style=flat&logo=github&link=https://github.com/lorran-xo?tab=repositories)](https://github.com/lorran-xo?tab=repositories)  
 <h1 align="center">Lorran Oliveira</h1>
 <h6 align="center">Front-End developer</h6>
- 
+ <h4>this github account is inactive, I'm on bitbucket</h4>
+
 <br>
 
 - Frontend: <br />
