@@ -1,6 +1,5 @@
 
-<h1 align="center">Lorran Oliveira</h1>
-<h6 align="center">Web & Mobile developer </h6>
+<h5 align="center">Web & Mobile developer </h5>
 
 <h6 align="center"> 
   
